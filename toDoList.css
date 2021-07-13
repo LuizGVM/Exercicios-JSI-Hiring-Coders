@@ -1,0 +1,32 @@
+#add{
+    border:1px solid black;
+    border-radius:4px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:13px;
+    padding:6px 10px;
+    text-decoration:none;
+}
+
+main{
+    text-align: center;
+}
+
+label{
+    font-size: large;
+    font-weight: bold;
+}
+
+input{
+    height: 27px;
+    border:1px solid black;
+    border-radius:4px;
+}
+
+.to-dos{
+    margin-left: 370px;
+    max-width: 169px;
+    text-align: left;
+}
